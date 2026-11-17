@@ -1,0 +1,6 @@
+{
+  "name": "Scroll Control Video",
+  "description": "A single-screen website where a background video plays and scrubs forward/backward in sync with the user's scroll position.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
